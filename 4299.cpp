@@ -4,6 +4,7 @@ using namespace std;
 // 1시간 = 60분
 // 24시간 = 1440분
 // 깃허브에 올리니 한글이 깨져서 수정함!
+// 왜.. 안되지..
 
 int main() {
 	int test_case;
